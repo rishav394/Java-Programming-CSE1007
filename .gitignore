@@ -1,0 +1,10 @@
+Practise/*
+Outputs/*
+*.class
+
+# Reports
+*.docx
+*.pdf
+
+# Code runner files
+tempCodeRunnerFile.java
