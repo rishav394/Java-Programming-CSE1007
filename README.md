@@ -11,6 +11,11 @@ Since I have this course under her I will also upload the assignments she gives 
 *  [Right angle triangle pattern]()
 *  [Simple and Comound interest]()
 
+## Assignments - 10247 - JAISANKAR N
+
+* [Current And Saving Accounts]()
+
+
 ## Cycle Sheet (List of Challenging Experiments (Indicative))
 
 Each assignment number from List of Challenging Experiments is named as `q[number]` under the Cycle Sheet folder. Or you can just navigate to that file by clicking these links below.
@@ -18,12 +23,14 @@ Each assignment number from List of Challenging Experiments is named as `q[numbe
 1. Write a program to demonstrate the knowledge of students in basic Java concepts. [Solution]()
 
     >Eg., Write a program to read the First name and Last name of a person, his weight and height using command line arguments. Calculate the BMI Index which is defined as the individual's body mass divided by the square of their height.
+    >
     >| Category | BMI Range-Kg/m2 |
     >|------------------------------- |----------------------- |
     >| Underweight | <18.5 |
     >| Normal (healthy weight) | 18.5 to 25 |
     >| Overweight | 25 to 30 |
     >| Obese Class | Over 30 |
+    >
     >Display the name and display his category based on the BMI value thus calculated.
 
   

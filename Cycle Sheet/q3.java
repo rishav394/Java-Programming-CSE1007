@@ -1,4 +1,5 @@
-import java.lang.*;
+// Write a program to demonstrate the knowledge of students in String handling.
+
 import java.util.*;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

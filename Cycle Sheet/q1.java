@@ -1,6 +1,8 @@
-public class q1{
-    public static void main(String args[]){
-        if(args.length < 4){
+//  Write a program to demonstrate the knowledge of students in basic Java concepts.
+
+public class q1 {
+    public static void main(String args[]) {
+        if (args.length < 4) {
             System.err.println("Please pass arguments.");
             System.exit(0);
         }
@@ -10,15 +12,15 @@ public class q1{
         double height = Double.parseDouble(args[3]);
         double bmi = weight / (height * height) * 1.00;
         String cate = "";
-        if(bmi < 18)
+        if (bmi < 18)
             cate = "Underweight";
-        else if(bmi < 25)
+        else if (bmi < 25)
             cate = "Normal weight";
-        else if(bmi < 30)
+        else if (bmi < 30)
             cate = "Overweight";
         else
             cate = "Obese";
         System.out.println(fname + " " + lname + " is " + cate);
-        
+
     }
 }
