@@ -12,7 +12,8 @@ public class q2 {
             System.out.print("Enter slow learners in batch " + (i + 1) + ": ");
             slow[i] = src.nextInt();
             double temp = slow[i] / 4.0;
-            int size = new Double(Math.ceil(temp)).intValue();
+            // int size = new Double(Math.ceil(temp)).intValue(); DEPRICIATED
+            int size = (int) temp;
             multi[i] = new int[size];
             Arrays.fill(multi[i], 4);
             if (slow[i] % 4 != 0) {

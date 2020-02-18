@@ -8,3 +8,6 @@ Outputs/*
 
 # Code runner files
 tempCodeRunnerFile.java
+
+# JAR files
+*.jar
